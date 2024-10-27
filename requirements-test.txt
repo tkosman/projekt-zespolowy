@@ -1,0 +1,2 @@
+sanic-testing==24.6.0
+pytest==8.3.3
