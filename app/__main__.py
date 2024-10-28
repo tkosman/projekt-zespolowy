@@ -1,6 +1,8 @@
 """
 Sanic app.
 """
+#TEST
+
 import argparse
 
 import sanic
