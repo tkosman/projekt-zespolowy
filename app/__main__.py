@@ -8,6 +8,8 @@ from sanic import response, request
 
 __version__ = '1.0.0'
 
+#1234
+
 def get_args():
     """ Parse command line arguments. """
     argument_parser = argparse.ArgumentParser(description='Sanic app')
